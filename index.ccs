@@ -1,4 +1,8 @@
 body {
+    background-color: pink !important;
+}
+
+body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #fff0f6, #ffe4ee);
     text-align: center;
