@@ -1,31 +1,11 @@
 body {
-    background-color: pink !important;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #fff0f6, #ffe4ee);
+    background-color: lightpink !important;
+    color: black !important;
     text-align: center;
     margin-top: 100px;
-    color: #5a3a4a;
+    font-family: Arial, sans-serif;
 }
 
 h1 {
-    color: #e75480;
-    font-size: 2.4rem;
-    margin-bottom: 12px;
-}
-
-p {
-    font-size: 1.1rem;
-    color: #6d4256;
-}
-
-.container {
-    background-color: #ffffff;
-    max-width: 480px;
-    margin: auto;
-    padding: 30px;
-    border-radius: 18px;
-    box-shadow: 0 8px 20px rgba(231, 84, 128, 0.2);
+    color: deeppink !important;
 }
